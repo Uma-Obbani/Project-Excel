@@ -1,4 +1,4 @@
-This project analyzes coffee sales data to uncover trends, identify top-performing products, and track regional performance. Built entirely in **Microsoft Excel** using pivot tables, slicers, and charts to deliver actionable business insights.
+This project analyzes coffee sales data to uncover trends, identify top-performing products, and track City performance. Built entirely in Google Sheets using pivot tables, slicers, and charts to deliver actionable business insights.
 
 ---
 
@@ -6,9 +6,9 @@ This project analyzes coffee sales data to uncover trends, identify top-performi
 
 - Interactive dashboard with filters (slicers)
 - Monthly sales trend analysis
-- Product-wise and region-wise performance
+- Product-wise and City-wise performance
 - Top 5 coffee products by revenue
-- Data cleaning and transformation using Excel formulas
+- Data cleaning and transformation using Googlesheets formulas
 
 ---
 
